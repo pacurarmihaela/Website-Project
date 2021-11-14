@@ -1,4 +1,4 @@
-# Website-Project
+# Website-Project RIUS
 
 Contine: 1 fisier HTML, 1 fisier CSS, 1 fisier JavaScript, foldere pentru: pagina de fotografie, stiri, contact, footer-svg, imagini
 
